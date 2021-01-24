@@ -1,0 +1,5 @@
+C:\Users\rx480\Desktop\TestPublish\Quicktyper.exe
+C:\Users\rx480\Desktop\TestPublish\Quicktyper.dll
+C:\Users\rx480\Desktop\TestPublish\Quicktyper.deps.json
+C:\Users\rx480\Desktop\TestPublish\Quicktyper.runtimeconfig.json
+C:\Users\rx480\Desktop\TestPublish\Quicktyper.pdb

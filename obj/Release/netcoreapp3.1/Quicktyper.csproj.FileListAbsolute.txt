@@ -1,0 +1,13 @@
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.exe
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.deps.json
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.runtimeconfig.json
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.runtimeconfig.dev.json
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.dll
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\bin\Release\netcoreapp3.1\Quicktyper.pdb
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.csprojAssemblyReference.cache
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.AssemblyInfoInputs.cache
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.AssemblyInfo.cs
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.csproj.CoreCompileInputs.cache
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.dll
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.pdb
+C:\Users\rx480\source\repos\Quicktyper\Quicktyper\obj\Release\netcoreapp3.1\Quicktyper.genruntimeconfig.cache
